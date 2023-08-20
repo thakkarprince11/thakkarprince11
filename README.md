@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React-Native, MEANstack Development**
 
-- 📄 Know about my experiences - **IT Startup on Healthcare IT Startup on Healthcare**
+- 📄 Know about my experiences - **IT Startup on Healthcare**
 
 - ⚡ Fun fact **I enjoy complicating Projects.**
 
