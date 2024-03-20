@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince Thakkar</h1>
-<h3 align="center">I'm an Aspiring Web & Application Developer, from Ahmedabad, India</h3>
+<h3 align="center">I'm a MERNStack Developer, from Ahmedabad, India</h3>
 
-- 🌱 I’m currently learning **React-Native, MEANstack Development**
+- 🌱 I’m currently doing Internship **React-JS, MEANstack Development**
 
 - 📄 Know about my experiences - **IT Startup on Healthcare**
 
