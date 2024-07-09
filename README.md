@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prince Thakkar</h1>
 <h3 align="center">I'm a MERNStack Developer, from Ahmedabad, India</h3>
 
-- 🌱 I’m currently doing Internship **React-JS, MEANstack Development**
+- 🌱 **React-JS + Node-JS, MEANstack Development**
 
-- 📄 Know about my experiences - **IT Startup on Healthcare**
+- 📄 Know about my projects - **ShortVids**
 
 - ⚡ Fun fact **I enjoy complicating Projects.**
 
