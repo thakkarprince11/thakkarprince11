@@ -3,7 +3,7 @@
 
 - 🌱 **React-JS + Node-JS, MEANstack Development**
 
-- 📄 Know about my projects - **ShortVids** **Quiz - Riddle**
+- 📄 Know about my projects - **ShortVids** , **Quiz-Riddle**
 
 - ⚡ Fun fact **I enjoy complicating Projects.**
 
